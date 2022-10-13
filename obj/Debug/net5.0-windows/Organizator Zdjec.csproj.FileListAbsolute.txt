@@ -1,0 +1,36 @@
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\bin\Debug\net5.0-windows\Organizator Zdjec.exe
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\bin\Debug\net5.0-windows\Organizator Zdjec.deps.json
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\bin\Debug\net5.0-windows\Organizator Zdjec.runtimeconfig.json
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\bin\Debug\net5.0-windows\Organizator Zdjec.runtimeconfig.dev.json
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\bin\Debug\net5.0-windows\Organizator Zdjec.dll
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\bin\Debug\net5.0-windows\ref\Organizator Zdjec.dll
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\bin\Debug\net5.0-windows\Organizator Zdjec.pdb
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.csproj.AssemblyReference.cache
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator_Zdjec.MainVC.resources
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.csproj.GenerateResource.cache
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.AssemblyInfoInputs.cache
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.AssemblyInfo.cs
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.csproj.CoreCompileInputs.cache
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.dll
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\obj\Debug\net5.0-windows\ref\Organizator Zdjec.dll
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.pdb
+C:\Users\t23475ks\OneDrive - The University of Manchester\Kam's Windows Apps\ImagesSorter\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.genruntimeconfig.cache
+C:\Users\kamil\Desktop\Organizator Zdjec\bin\Debug\net5.0-windows\Organizator Zdjec.exe
+C:\Users\kamil\Desktop\Organizator Zdjec\bin\Debug\net5.0-windows\Organizator Zdjec.deps.json
+C:\Users\kamil\Desktop\Organizator Zdjec\bin\Debug\net5.0-windows\Organizator Zdjec.runtimeconfig.json
+C:\Users\kamil\Desktop\Organizator Zdjec\bin\Debug\net5.0-windows\Organizator Zdjec.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Organizator Zdjec\bin\Debug\net5.0-windows\Organizator Zdjec.dll
+C:\Users\kamil\Desktop\Organizator Zdjec\bin\Debug\net5.0-windows\Organizator Zdjec.pdb
+C:\Users\kamil\Desktop\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator_Zdjec.MainVC.resources
+C:\Users\kamil\Desktop\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.dll
+C:\Users\kamil\Desktop\Organizator Zdjec\obj\Debug\net5.0-windows\refint\Organizator Zdjec.dll
+C:\Users\kamil\Desktop\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.pdb
+C:\Users\kamil\Desktop\Organizator Zdjec\obj\Debug\net5.0-windows\Organizator Zdjec.genruntimeconfig.cache
+C:\Users\kamil\Desktop\Organizator Zdjec\obj\Debug\net5.0-windows\ref\Organizator Zdjec.dll
